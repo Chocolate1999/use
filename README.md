@@ -10,6 +10,7 @@ Some useful tools for personal use, including software, hardware, browser plug-i
 - Theme: [Vitesse Theme](https://github.com/antfu/vscode-theme-vitesse) - Vitesse Black
 - File Icons: [File Icons](https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons)
 - Product Icons: [Carbon Icons](https://marketplace.visualstudio.com/items?itemName=antfu.icons-carbon)
+- VS Code Settings: [Settings](https://chodocs.cn/favorites.html#vscode-%E6%8F%92%E4%BB%B6)
 
 ## Chrome Extensions
 
@@ -32,12 +33,35 @@ Some useful tools for personal use, including software, hardware, browser plug-i
 
 ## MacOS Productivity
 
+- [Arc](https://arc.net/) - The internet computer browser
 - [Raycast](https://raycast.com/) - Spotlight replacement
 - [Kap](https://getkap.co/) - GIF Recorder
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) - Control the monitor in macOS
 - [Picsee](https://picsee.chitaner.com/) - File-based photo management
 - [Command X](https://apps.apple.com/us/app/command-x/id6448461551?mt=12) - The missing Cut feature for finder
 - [Rectangle](https://rectangleapp.com/) - Window Manager
+- [PP Duck](https://ppduck.com/) - Image compression artifact
+- [Paste](https://pasteapp.io/) - Clipboard manager
+- [WeChat Reading](https://apps.apple.com/cn/app/%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6/id952059546) - WeChat reader
+- [Dynamic Wallpaper Engine](https://apps.apple.com/cn/app/%E5%8A%A8%E6%80%81%E5%A3%81%E7%BA%B8%E5%BC%95%E6%93%8Edynamic-wallpaper-engine/id1453504509?mt=12) - 4K Dynamic Wallpaper
+- [Flux](https://justgetflux.com/) - Light
+- [Perculia](https://apps.apple.com/cn/app/perculia/id1462633284?mt=12) - Bluetooth assistant
+- [Tencent Lemon](https://lemon.qq.com/) - Clean
+- [Thor Launcher ](https://apps.apple.com/us/app/thor-launcher/id1120999687?mt=12) - Open the right application ASAP
+- [RunCat](https://apps.apple.com/us/app/runcat/id1429033973?mt=12) - Cat living in the menubar
+- [iTerm2](https://iterm2.com/) - Terminal
+### Other
+
+- WeChat
+- Chrome
+- Telegram
+- 163
+- QQ
+- Bilibili
+- [`favorites`](https://chodocs.cn/favorites.html)
+- ...
+
+> Everyday use will not be an example
 
 ## Design / Social Media
 
@@ -48,9 +72,10 @@ Some useful tools for personal use, including software, hardware, browser plug-i
 ## Hardware
 
 - MacBook Pro 13' M1 16 GB - Work
-- Mac Mini M1 8 GB - Home
+- Mac mini M1 8 GB - Home
 - Redmi K50 Pro 12 GB + 256 GB - Phone
 
 ## References
 
 - [antfu/use](https://github.com/antfu/use)
+- [sorrycc/awesome-tools](https://github.com/sorrycc/awesome-tools)
